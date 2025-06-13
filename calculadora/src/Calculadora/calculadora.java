@@ -6,7 +6,7 @@ public class calculadora {
 
         System.out.println("Ingresa tú primer número");
         int numeroUno =  scanner.nextInt();
-        System.out.println("Elige la operación");
+
         System.out.println("Ingresa tú segundo número");
         int numeroDos = scanner.nextInt();
 
